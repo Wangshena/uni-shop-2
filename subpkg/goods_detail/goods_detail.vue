@@ -1,6 +1,6 @@
 <template>
   <view>
-    Cate
+    Goods
   </view>
 </template>
 
